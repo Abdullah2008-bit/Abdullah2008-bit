@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1>Abdullah Atif</h1>
+<h1>Muhammad Abdullah Atif</h1>
 
 <a href="https://smartiesandcookies.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=663399&center=true&vCenter=true&width=780&lines=Full-Stack+Architect+%7C+Applied+AI+Engineer;Offline-First+Desktop+%26+Hardware+Integration;Founder%2C+Smarties+%26+Cookies+Technologies;Building+production+systems+from+Lahore%2C+Pakistan" alt="Titles" />
