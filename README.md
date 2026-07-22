@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://smartiesandcookies.com"><img src="https://img.shields.io/badge/Website-smartiesandcookies.com-663399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="mailto:contact@smartiesandcookies.com"><img src="https://img.shields.io/badge/Email-contact%40smartiesandcookies.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:abdullahatif145@gmail.com"><img src="https://img.shields.io/badge/Email-contact%40smartiesandcookies.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Abdullah2008-bit"><img src="https://img.shields.io/badge/GitHub-Abdullah2008--bit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Lahore-Pakistan-006600?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
@@ -161,7 +161,7 @@ Ship organic         No mock data in production. No fake success toasts.
 
 ### Let's build something that holds up in production
 
-<a href="mailto:contact@smartiesandcookies.com"><img src="https://img.shields.io/badge/Email-contact%40smartiesandcookies.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:abdullahatif145@gmail.com"><img src="https://img.shields.io/badge/Email-contact%40smartiesandcookies.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://smartiesandcookies.com"><img src="https://img.shields.io/badge/Smarties_%26_Cookies-663399?style=for-the-badge&logo=safari&logoColor=white" alt="Company" /></a>
 <a href="https://github.com/Abdullah2008-bit"><img src="https://img.shields.io/badge/Follow-Abdullah2008--bit-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" /></a>
 
